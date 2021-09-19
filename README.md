@@ -1,16 +1,21 @@
-### Hi there, I'm Nouran  👋
+### Hi there, I'm Nouran  <img src="https://github.com/nouraan-ahmed/nouraan-ahmed/blob/main/wave.gif" width="30px">
 <hr>
+
+![](https://komarev.com/ghpvc/?username=nouraan-ahmed&label=PROFILE+VIEWS)
+
 
 ## 👨🏻‍💻 About Me
 
 - 👯 I'm Currently a Senior Computer and Systems Engineering Student
-- 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset!
+- 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset
 - 🌱 I’m Currently learning React, TypeScript & NodeJs
+- 🔭 I’m looking to collaborate on web project
 - 👨🏼‍💻 Open for Freelance Projects and Internships
 - 🥅 My GOAL: Work as a professional Software Engineer and Contribute more to Open Source projects
 - ⚡ Fun fact: Ever Since I was a little kid, Software Development has been my passion. it was almost magic, being able to get the computer to do whatever I wanted, just by typing some code
+- 📫 How to reach me: **[nouraanahmed228@gmail.com](mailto:nouraanahmed228@gmail.com?subject=[GitHub]%20)**
 
-### 🤝🏻 Connect with me:
+## ⚙️ Connect with me:
 
 <div align="center">
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -31,7 +36,7 @@
 
 <br />
 
-### Tech Accounts
+## 🌐 Tech Accounts
 
 <div align="center">
 <a target="_blank" href="https://codeforces.com/profile/Nouraaan_Ahmed" style="padding-right:18px;">
@@ -45,7 +50,7 @@
 </a>
 </div>
 
-### Languages and Tools:
+## 🕵️‍♀️ Languages and Tools:
 
 <div align="center">
 <code><img height="30" style="padding-right:15px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -66,10 +71,22 @@
 <br />
 <br />
 
+## 📊 Github Stats
+
 <div align="center">
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraan-ahmed&show_icons=true&theme=radical)
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nouraan-ahmed&theme=dracula" />
+<br/>
+<br/>
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraan-ahmed&layout=compact&theme=radical)](https://github.com/nouraan-ahmed/github-readme-stats)
+<!-- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouraan-ahmed&show_icons=true&theme=dracula) -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=nouraan-ahmed&show_icons=true&theme=dracula">
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij9896&layout=compact"> -->
+   
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=nouraan-ahmed&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" />
+  
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouraan-ahmed&layout=compact&theme=radical)](https://github.com/nouraan-ahmed/github-readme-stats) -->
 
 </div>
