@@ -6,13 +6,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 👯 I'm Currently a Senior Computer and Systems Engineering Student
-- 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset
-- 🌱 I’m Currently learning React, TypeScript & NodeJs
-- 🔭 I’m looking to collaborate on web project
-- 👨🏼‍💻 Open for Freelance Projects and Internships
-- 🥅 My GOAL: Work as a professional Software Engineer and Contribute more to Open Source projects
-- ⚡ Fun fact: Ever Since I was a little kid, Software Development has been my passion. it was almost magic, being able to get the computer to do whatever I wanted, just by typing some code
+- 🔭 I'm Seeking To Obtain a Challenging Career to enhance my knowledge and increase my experience, I'm always seeking continuous improvement in my personality and mindset.
+- 🥅 My GOAL: Work as a professional Software Engineer and Contribute more to Open Source projects.
+- ⚡ Fun fact: Ever Since I was a little kid, Software Development has been my passion. it was almost magic, being able to get the computer to do whatever I wanted, just by typing some code.
 - 📫 How to reach me: **[nouraanahmed228@gmail.com](mailto:nouraanahmed228@gmail.com?subject=[GitHub]%20)**
 
 ## ⚙️ Connect with me:
